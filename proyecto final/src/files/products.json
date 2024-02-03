@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Zapatilla",
+    "description": "Zapatilla deportiva",
+    "price": 15500,
+    "thumbnail": "",
+    "code": "PROD1",
+    "stock": 1,
+    "status": true,
+    "category": "top"
+  },
+  {
+    "title": "Botines",
+    "description": "Botines futbol 5",
+    "price": 13000,
+    "thumbnail": "",
+    "code": "PROD2",
+    "stock": 2,
+    "status": true,
+    "category": "full"
+  },
+  {
+    "title": "Pantalon",
+    "description": "Pantalon largo",
+    "price": 11500,
+    "thumbnail": "",
+    "code": "PROD3",
+    "stock": 3,
+    "status": true,
+    "category": "top"
+  },
+  {
+    "title": "Short",
+    "description": "Short deportivo",
+    "price": 14300,
+    "thumbnail": "",
+    "code": "PROD4",
+    "stock": 4,
+    "status": true,
+    "category": "bottom"
+  },
+  {
+    "title": "Remera",
+    "description": "Remera manga larga",
+    "price": 14200,
+    "thumbnail": "",
+    "code": "PROD5",
+    "stock": 5,
+    "status": true,
+    "category": "bottom"
+  },
+  {
+    "title": "Remera 2",
+    "description": "Remera manga corta",
+    "price": 9800,
+    "thumbnail": "",
+    "code": "PROD6",
+    "stock": 6,
+    "status": true,
+    "category": "top"
+  },
+  {
+    "title": "Musculosa",
+    "description": "Musculosa playera",
+    "price": 12300,
+    "thumbnail": "",
+    "code": "PROD7",
+    "stock": 7,
+    "status": true,
+    "category": "full"
+  },
+  {
+    "title": "Medias",
+    "description": "Medias deportivas",
+    "price": 16400,
+    "thumbnail": "",
+    "code": "PROD8",
+    "stock": 8,
+    "status": true,
+    "category": "bottom"
+  },
+  {
+    "title": "Medias 2",
+    "description": "Medias termicas",
+    "price": 10200,
+    "thumbnail": "",
+    "code": "PROD9",
+    "stock": 9,
+    "status": true,
+    "category": "top"
+  },
+  {
+    "title": "Buzo",
+    "description": "Buzo deportivo",
+    "price": 17300,
+    "thumbnail": "",
+    "code": "PROD10",
+    "stock": 10,
+    "status": true,
+    "category": "full"
+  }
+]

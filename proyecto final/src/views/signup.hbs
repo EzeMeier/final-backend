@@ -1,0 +1,30 @@
+<div class="div">
+  <h1>Crea tu cuenta</h1>
+  <div id="github">
+    <a href="/api/sessions/signup-github">Inicia sesion con GitHub</a>
+  </div>
+
+  <p>{{error}}</p>
+
+  <div class="form">
+    <form
+      action="/api/sessions/signup"
+      method="post"
+      enctype="multipart/form-data"
+    >
+      <input type="text" name="firstName" placeholder="Primer nombre" />
+      <br />
+      <input type="text" name="lastName" placeholder="Apellido" />
+      <br />
+      <input type="number" name="age" placeholder="Edad" />
+      <br />
+      <input type="email" name="email" placeholder="Email" />
+      <br />
+      <input type="password" name="password" placeholder="Contraseña" />
+      <br />
+      <input type="file" name="avatar" placeholder="avatar" />
+      <br />
+      <button>Registrate</button>
+    </form>
+  </div>
+</div>
